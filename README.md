@@ -1,5 +1,4 @@
-# redneckrsa
-Homebrew RSA application
+# Homebrew RSA application
 
 Running this program requires a working installation of Julia.
 
